@@ -1,0 +1,33 @@
+body {
+    background: lightgray;
+    margin: 0;
+}
+header {
+    font-size: 150%;
+    background: white;
+    text-align: center;  
+    padding: 2px;
+}
+.photo {
+    width: 600px;
+    margin: auto;
+    background: white;
+}
+h2 {
+    padding: 10px;
+}
+.comentario {
+    padding: 10px;
+}
+.container {
+    display: flex;
+    margin-top: 30px;
+}
+.titulo1 {
+    font-size: 120%;
+    font-style: oblique;
+    width: 85%;
+}
+.titulo2 {
+    color: grey;
+}
